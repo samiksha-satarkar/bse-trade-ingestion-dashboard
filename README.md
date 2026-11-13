@@ -292,6 +292,4 @@ Not implemented, not claimed:
 ## Docs
 
 - [docs/architecture.md](docs/architecture.md)
-- [docs/demo-script.md](docs/demo-script.md)
 - [docs/interview-notes.md](docs/interview-notes.md)
-- [docs/assessment-checklist.md](docs/assessment-checklist.md)
